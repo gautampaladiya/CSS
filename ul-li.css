@@ -8,7 +8,7 @@
 }
 .w30 {
     width: 30%;
-    height: 100px;
+    height: 100px; 
     float: left;
 }
 
@@ -39,7 +39,7 @@ ul li {
     height: 100px;
     width: 15%;
     float: left;
-    background-color: #212529;
+    background-color: aqua;
 }
 
 .mail {
@@ -93,4 +93,8 @@ ul li {
     height: 30px; 
     line-height: 30px;
     text-align: center;
+}
+select {
+    border: hidden;
+    /* background-color: #003366; */
 }
