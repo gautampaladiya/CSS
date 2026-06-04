@@ -1,0 +1,179 @@
+h1 {
+  color: red;
+  width: 200px;
+  background-color: bisque;
+  height: 250px;
+  line-height: 250px;
+  text-align: center;
+
+  border: 20px solid yellowgreen;
+
+  margin-top: 30px;
+  margin-bottom: 200px;
+  margin-left: 100px;
+  margin-right: 300px;
+
+  padding: 200px 30px 50px;
+}
+
+h2 {
+  color: green;
+  width: 200px;
+  font-size: 130px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: darkgoldenrod;
+  height: 250px;
+  line-height: 250px;
+  text-align: center;
+
+  border: 20px solid lightgreen;
+
+  margin: 40px 60px 120px;
+
+  padding-top: 400px;
+  padding-left: 150px;
+  padding-right: 300px;
+
+  border-top-left-radius: 800px;
+  border-top-right-radius: 600px;
+  border-bottom-left-radius: 600px;
+
+  outline: 40px solid blue;
+}
+
+h3 {
+  color: blue;
+  width: 200px;
+  background-color: aqua;
+  height: 250px;
+  line-height: 250px;
+  text-align: center;
+
+  font: bold;
+  font-size: 100px;
+  border: 20px solid gray;
+
+  margin-top: 200px;
+  margin-left: 680px;
+  margin-bottom: 290px;
+
+  padding: 300px;
+
+  /* border-top-left-radius: 500px; */
+  border-top-right-radius: 500px;
+  border-bottom-left-radius: 500px;
+
+  outline: 20px dashed red;
+}
+
+h4 {
+  color: rgb(32, 231, 6);
+  width: 400px;
+  font-size: 200px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: brown;
+  height: 250px;
+  line-height: 250px;
+  text-align: center;
+
+  border: 20px solid royalblue;
+
+  margin: 100px 250px;
+
+  padding-left: 200px;
+  padding-right: 400px;
+
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 150px;
+  border-bottom-right-radius: 150px;
+
+  outline: 30px double black;
+}
+
+font {
+  color: blue;
+  width: 200px;
+  background-color: aqua;
+  height: 250px;
+  line-height: 250px;
+  text-align: center;
+
+  font: bold;
+  font-size: 100px;
+  border: 20px solid gray;
+
+  margin-top: 200px;
+  margin-left: 400px;
+  margin-bottom: 300px;
+
+  padding: 300px;
+
+  /* border-top-left-radius: 500px; */
+  border-bottom-right-radius: 500px;
+  border-top-left-radius: 500px;
+
+  outline: 20px dashed red;
+}
+
+text {
+  color: blue;
+  width: 200px;
+  background-color: aqua;
+  height: 250px;
+  line-height: 250px;
+  text-align: center;
+
+  font: bold;
+  font-size: 100px;
+  border: 20px solid gray;
+
+  margin-top: 200px;
+  margin-left: 400px;
+  margin-bottom: 200px;
+
+  padding: 300px;
+
+  /* border-top-left-radius: 500px; */
+  border-bottom-right-radius: 500px;
+  border-top-left-radius: 500px;
+
+  outline: 20px dashed red;
+}
+
+b {
+  color: blue;
+  width: 200px;
+  background-color: aqua;
+  height: 250px;
+  line-height: 250px;
+  text-align: center;
+
+  font: bold;
+  font-size: 100px;
+  border: 20px solid gray;
+
+  margin-top: 200px;
+  margin-left: 400px;
+  margin-bottom: 200px;
+
+  padding: 300px;
+
+  /* border-top-left-radius: 500px; */
+  border-top-right-radius: 500px;
+  border-bottom-left-radius: 500px;
+
+  outline: 20px dashed red;
+}
+
+p {
+  color: blue;
+  width: 2000px;
+  background-color: rgb(145, 255, 0);
+  height: 400px;
+  line-height: 400px;
+  text-align: center;
+  font: bold;
+  font-size: 100px;
+  border: 20px solid gray;
+}
